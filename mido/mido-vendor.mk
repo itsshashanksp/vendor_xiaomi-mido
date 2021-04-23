@@ -1199,7 +1199,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db
 
 PRODUCT_PACKAGES += \
-    libaudioparsers \
     libqmiservices \
     libsdm-disp-vndapis \
     libthermalclient \
